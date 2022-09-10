@@ -4,6 +4,7 @@
   * @collaborators
   * @September 4,2022
   * another comment for the purpose of creating a merge conflict
+  * comment for purpose of merge conflict
  */
 
  #include <iostream>
